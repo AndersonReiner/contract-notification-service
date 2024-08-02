@@ -1,4 +1,4 @@
-package com.anderson.contract.notification.service;
+package com.anderson;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
